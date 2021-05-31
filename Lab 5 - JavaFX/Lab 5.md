@@ -1,6 +1,9 @@
 
 # Lab 5
 # Створення GUI з допомогою JavaFX 
+
+[![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Мета роботи - навчитись створювати прості графічні інтерфейси з допомогою [JavaFX](https://openjfx.io/). 
 
 ![Demo](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/blob/master/Lab%205%20-%20JavaFX/GUI-Lab-5.PNG)
